@@ -14,7 +14,7 @@
 The project is based on a Wemos D1 mini and a MH-Z19B CO2 sensor.\
 The MH-Z19B sensor will give us in a certain interval CO2 gas values and temperature (default every 10 sec).\
 One WS2812B Pixel LED will show the air quality based on the values from the [Bundesumweltamt Germany](https://www.umweltbundesamt.de/sites/default/files/medien/pdfs/kohlendioxid_2008.pdf)
-- 300-700ppm Green
+- 300-700ppm <span style="color:green">Green</span>
 - 700-1000ppm Yellow
 - 1000-2000ppm Red
 - 2000 and above blinking Red
