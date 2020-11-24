@@ -40,9 +40,7 @@ The Access Point Version will creates an access point where you can connect with
 
 After that you can open 192.168.1.1 with any browser
 <div align="center">
-    <a href="/images/Screen1.jpeg">
-        <img width="150" height="150" src="images/logo.png">
-    </a>
+        <img height="500px" src="images/Screen1.jpeg">
 </div>
 
 ## What you need
