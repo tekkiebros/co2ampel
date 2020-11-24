@@ -42,6 +42,54 @@ uint32_t yellow = strip.Color(255,140,0);
 uint32_t red = strip.Color(255, 0, 0);
 uint32_t blue = strip.Color(0, 0, 255);
 
+/* Function for HTTP Request / */
+void handle_OnConnect() {
+  server.send(200, "text/html", SendHTML(coWert, temp)); 
+}
+
+/* Function for HTTP Error */
+void handle_NotFound(){
+  server.send(404, "text/plain", "Not found");
+}
+
+void setColor(int coWert){
+
+  if(coWert>=300 && coWert<700){
+    strip.setPixelColor(0, green);
+    strip.show();
+  }
+  if(coWert>=700 && coWert<1000){
+    strip.setPixelColor(0, yellow);
+    strip.show();
+  }
+  if(coWert>=1000 && coWert<2000){
+    strip.setPixelColor(0, red);
+    strip.show();
+  }
+  if(coWert>=2000){
+    for(int k=0;k<=5; k++){
+      strip.setPixelColor(0, red);
+      strip.show();
+      delay(500);
+      strip.setPixelColor(0,0,0,0);
+      strip.show();
+      delay(500);
+    }
+    return;
+  }
+  
+}
+
+/* Get CO2 and Temperature from Sensor */
+void getValues(){
+  coWert = myMHZ19.getCO2();
+  Serial.print("CO2 (ppm): ");
+  Serial.println(coWert);
+  temp = myMHZ19.getTemperature();
+  Serial.print("Temperature (C): ");                  
+  Serial.println(temp); 
+}
+
 /* Setup */
 void setup() {
   Serial.begin(9600);
