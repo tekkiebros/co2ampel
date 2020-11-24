@@ -11,3 +11,6 @@
 </div>
 
 ## How it works
+The project is based on a Wemos D1 mini and a MH-Z19B CO2 sensor.
+The MH-Z19B sensor will give us in a certain interval CO2 gas values and temperature (default every 10 sec).
+One WS2812B Pixel LED will show the air quality based on the values from the [Bundesumweltamt Germany](https://www.umweltbundesamt.de/sites/default/files/medien/pdfs/kohlendioxid_2008.pdf)
