@@ -1,10 +1,10 @@
 <div align="center">
-    <a href="https://github.com/tekkiebros/co2ampel">
-        <img width="150" height="150" src="images/logo.png">
+    <a href="https://tekkiebros.de">
+        <img width="150" height="150" src="https://www.tekkiebros.de/wp-content/uploads/TekkieBros-Logo_small-Kopie.jpg">
     </a>
     <br>
     <br>
-    <h1>CO2 Ampel</h1>
+    <h1>CO2 Ampel by Tekkiebros</h1>
     <p>
         Create your own CO2 Light to fight against Covid-19
     </p>
