@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://tekkiebros.de">
-        <img width="150" height="150" src="https://www.tekkiebros.de/wp-content/uploads/TekkieBros-Logo_small-Kopie.jpg">
+        <img height="150" src="https://www.tekkiebros.de/wp-content/uploads/TekkieBros-Logo_small-Kopie.jpg">
     </a>
     <br>
     <br>
