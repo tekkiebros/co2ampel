@@ -23,4 +23,5 @@ One WS2812B Pixel LED will show the air quality based on the values from the [Bu
 |--------------|--------|
 | 300-700 | green | 
 | 700-1000| yellow|
-| 1000-2000|   red|
+| 1000-2000| red|
+| >2000|blinking red|
