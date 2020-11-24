@@ -38,7 +38,12 @@ The Access Point Version will creates an access point where you can connect with
 | SSID | CO2Ampel | 
 | Password | Covid-19 |
 
-After that you can open 192.168.1.1 with any browser 
+After that you can open 192.168.1.1 with any browser
+<div align="center">
+    <a href="https://github.com/tekkiebros/co2ampel/images/Screen1.jpeg">
+        <img width="150" height="150" src="images/logo.png">
+    </a>
+</div>
 
 ## What you need
 - Wemos D1 Mini (may work with other ESP8266 Devices too)
