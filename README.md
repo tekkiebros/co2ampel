@@ -44,7 +44,7 @@ After that you can open 192.168.1.1 with any browser. You will see your Temperat
 </div>
 
 ## What you need
-- Wemos D1 Mini (may work with other ESP8266 Devices too)
+- Wemos D1 Mini (may work with other ESP8266 Devices)
 - MH-Z19B CO2 Sensor
 - WS2812B LED
 - Jumper Wires
