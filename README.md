@@ -19,7 +19,7 @@ One WS2812B Pixel LED will show the air quality based on the recommended values 
 - 1000-2000ppm Red
 - 2000 and above blinking Red
 
-| Values (ppm) | Color  |
+| Values (ppm) |   |
 |--------------|--------|
 | 300-700 | green | 
 | 700-1000| yellow|
