@@ -38,7 +38,7 @@ The Access Point Version will creates an access point where you can connect with
 | SSID | CO2Ampel | 
 | Password | Covid-19 |
 
-After that you can open 192.168.1.1 with any browser
+After that you can open 192.168.1.1 with any browser. You will see your Temperature, CO2 gas value and a green, yellow or red circle.
 <div align="center">
         <img height="500px" src="images/Screen1.jpeg">
 </div>
