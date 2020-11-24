@@ -55,4 +55,4 @@ Clone this repository to your computer or copy the code for the [Simple Version]
 
 ## 3D Printed Case
 We created a case for the Wemos D1 Mini and MH-Z19B Sensor.\
-You can download it [here](STL/MH-Z19_Gehäuse.stl) or visit us on [Thinigverse](https://www.thingiverse.com/tekkiebros/designs)
+You can download it [here](/STL) or visit us on [Thinigverse](https://www.thingiverse.com/tekkiebros/designs)
