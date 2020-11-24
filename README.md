@@ -4,7 +4,7 @@
     </a>
     <br>
     <br>
-    <h1>CO2 Ampel by Tekkiebros</h1>
+    <h1>CO2 Ampel</h1>
     <p>
         Create your own CO2 Light to fight against Covid-19
     </p>
@@ -53,3 +53,6 @@ After that you can open 192.168.1.1 with any browser. You will see your Temperat
 ## How to install
 Clone this repository to your computer or copy the code for the [Simple Version](https://github.com/tekkiebros/co2ampel/tree/main/CO2_ampel_simple) or [Access Point Version](https://github.com/tekkiebros/co2ampel/tree/main/CO2_ampel_AP)
 
+## 3D Printed Case
+We created a case for the Wemos D1 Mini and MH-Z19B Sensor.\
+You can download it here or visit us on [Thinigverse](https://www.thingiverse.com/tekkiebros/designs)
