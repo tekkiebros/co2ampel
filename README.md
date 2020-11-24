@@ -25,3 +25,12 @@ One WS2812B Pixel LED will show the air quality based on the values from the [Bu
 | 700-1000| yellow|
 | 1000-2000| red|
 | >2000|blinking red|
+
+## What you need
+- Wemos D1 Mini (may work with other ESP8266 Devices too)
+- MH-Z19B CO2 Sensor
+- WS2812B LED
+- Jumper Wires
+
+## How to install
+Clone this repository to your computer or copy the code for the [Simple Version](https://github.com/tekkiebros/co2ampel/tree/main/CO2_ampel_simple) or [Access Point Version](https://github.com/tekkiebros/co2ampel/tree/main/CO2_ampel_AP)
