@@ -34,7 +34,7 @@ This version will only indicates the values as already shown above via the LED l
 The Access Point Version will creates an access point where you can connect with any wifi device.
 
 | SSID | CO2Ampel | 
-| Password| Covid-19 |
+| Password | Covid-19 |
 
 ## What you need
 - Wemos D1 Mini (may work with other ESP8266 Devices too)
