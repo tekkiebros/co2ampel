@@ -19,7 +19,7 @@ One WS2812B Pixel LED will show the air quality based on the recommended values 
 - 1000-2000ppm Red
 - 2000 and above blinking Red
 
-| Values (ppm) |   |
+| Values (ppm) | Color |
 |--------------|--------|
 | 300-700 | green | 
 | 700-1000| yellow|
@@ -33,7 +33,7 @@ This version will only indicates the values as already shown above via the LED l
 ### Access Point Version
 The Access Point Version will creates an access point where you can connect with any wifi device.
 
-| Settings | Color  |
+| Settings |   |
 |--------------|--------|
 | SSID | CO2Ampel | 
 | Password | Covid-19 |
