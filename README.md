@@ -33,6 +33,7 @@ This version will only indicates the values as already shown above via the LED l
 ### Access Point Version
 The Access Point Version will creates an access point where you can connect with any wifi device.
 
+|--------------|--------|
 | SSID | CO2Ampel | 
 | Password | Covid-19 |
 
