@@ -68,7 +68,7 @@ void setup() {
   myMHZ19.begin(SerialCO2);
   strip.begin();
   strip.show();
-/*
+
   int i;
     Serial.println("Aufheitzen");
     while(millis()<180000){
@@ -86,7 +86,7 @@ void setup() {
     }
     }
   Serial.println("Ready!");
-  */
+  
 }
 
 
