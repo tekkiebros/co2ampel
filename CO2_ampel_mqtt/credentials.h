@@ -1,5 +1,0 @@
-#define WIFI_SSID "Your SSID"
-#define WIFI_PASSWD "Your Wifi Password"
-#define MQTT_SERVER "Your MQTT IP"
-#define MQTT_USER "Your MQTT User"
-#define MQTT_PASSWD "Your MQTT Password"
