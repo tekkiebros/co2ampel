@@ -4,7 +4,7 @@
     </a>
     <br>
     <br>
-    <h1>CO2 Ampel</h1>
+    <h1>CO2 Traffic Light</h1>
     <p>
         Create your own CO2 Light to fight against Covid-19
     </p>
