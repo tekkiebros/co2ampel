@@ -24,12 +24,6 @@
 #define LED_PIN 14 //D5
 #define LED_COUNT 1
 
-int coWert;
-int temp;
-
-long previousMillis = 0;
-long interval = 60000;
-
 // Wifi
 const char* ssid = WIFI_SSID;
 const char* password = WIFI_PASSWD;
@@ -41,6 +35,11 @@ const char* mqtt_clientId = "Corona Ampel";
 const char* outTopicMsgCoWert = "tekkiebros/coronaAmpel/coWert";
 const char* outTopicMsgTemp = "tekkiebros/coronaAmpel/temp";
 
+int coWert;
+int temp;
+
+long previousMillis = 0;
+long interval = 60000;
 
 MHZ19 myMHZ19;
 
